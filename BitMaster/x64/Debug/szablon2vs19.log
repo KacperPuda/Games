@@ -1,0 +1,81 @@
+﻿  bosses.cpp
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(18,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(19,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(20,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(21,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(22,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(23,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(24,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(25,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\bosses.cpp(172,15): warning C4101: 'tmp': unreferenced local variable
+  funkcjeDoS.cpp
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(106,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(107,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(108,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(109,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(110,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(111,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(112,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(113,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(121,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(122,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(123,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(124,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(125,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(126,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(127,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(128,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(136,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(137,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(138,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(139,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(140,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(141,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(363,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(592,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(592,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(603,214): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(603,203): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(604,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(604,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(605,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(605,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(606,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(606,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(607,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(607,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(608,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(608,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(609,140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(609,129): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(610,102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(610,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(618,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(618,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(619,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(648,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(648,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(653,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(662,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(652,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(661,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(686,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(686,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(693,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(693,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(888,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(888,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(923,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(923,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(946,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(956,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(958,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(960,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(962,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(955,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(957,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(959,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\funkcjeDoS.cpp(961,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  Generating Code...
+  szablon2vs19.vcxproj -> C:\Users\predator\Desktop\AADS\Games\bitMaster_Kacper_Puda_188625\x64\Debug\szablon2vs19.exe
