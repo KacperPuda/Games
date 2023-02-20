@@ -1,5 +1,5 @@
 # Ships
- Game written for the Basics of Programming course on IT in Gdansk University Of Technology.
+A game was written for the Basics of Programming course on IT at the Gdansk University Of Technology.
 
 EXPLANATIONS:
 
