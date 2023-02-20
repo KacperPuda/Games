@@ -1,5 +1,5 @@
 # Games
- Games written for the Multimedia and Interfaces course and the Basics of Programming course on IT in Gdansk University Of Technology.
+ Games wrote for the Multimedia and Interfaces course and the Fundamentals of Programming course
 
 EXPLANATIONS:
 
