@@ -1,3 +1,5 @@
 # FireOnTheHorizon
- Game written for the Multimedia and Interfaces course on IT in Gdansk University Of Technology.
+A game was written for the Multimedia and Interfaces course on IT at Gdansk University Of Technology.
+Give feedback
+
 
